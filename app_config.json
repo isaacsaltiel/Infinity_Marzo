@@ -1,0 +1,10 @@
+{
+  "NEW_DB_ROOT": "C:/Users/Isaac/OneDrive/Clientes_V2/Data",
+  "DATA_DIR": "C:/Users/Isaac/OneDrive/Clientes_V2/Data",
+  "OUTPUT_DIR": "C:/Users/Isaac/OneDrive/Clientes_V2/Output",
+  "CLIENTES_MASTER": "clientes_master.csv",
+  "PARTES_RELACIONADAS": "partes_relacionadas.csv",
+  "ID_PREFIX": "CLT",
+  "CLIENT_ID_START": 1001,
+  "ID_PAD": 0
+}
